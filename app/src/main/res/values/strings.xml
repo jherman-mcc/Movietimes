@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Movietimes</string>
+    <string name="zipcodeText">Zipcode</string>
+    <string name="zipcodeHint">Enter Zipcode</string>
+    <string name="checkTimes">Check Times</string>
+    <string name="movieName">Movie Name</string>
+    <string-array name="movieEntry">
+        <item>Old</item>
+        <item>Black Widow</item>
+        <item>Quiet Place 2</item>
+        <item>Snake Eyes</item>
+        <item>Space Jam: A New Legacy</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_movies">Movie Times for OLD</string>
+    <string name="cancellation">Movie times are subject to change without notice.\n \n \n</string>
+    <string name="AMC">AMC Lake In The Hills 12 \n   311 North Randall Road, Lake In The Hills, IL \n
+        Next starting time: 7:45 pm   2 seats only. \n \n</string>
+    <string name="ClassicCinema">Classic Cinemas Cinema 12 XQ  \n 100 Besinger Dr., Carpentersville, IL 60110"
+        Next starting time: 9:55 pm  10 seats   3.53 Mi away \n \n</string>
+    <string name="Cinemark">Cinemark Spring Hill Mall and XD \n  2000 Spring Hill Mall, West Dundee, IL 60118 \n
+        Next starting time: 10:20 pm is SOLD OUT \n \n</string>
+    <string name="AMCSouth">AMC South Barrington 24 \n 175 Studio Drive, South Barrington, IL 60010 \n
+        No more shows tonight: Next show is tomorrow at 11:20 AM \n \n</string>
+    <string name="Century">Century 16 Deer Park \n 21600 W Field Parkway, Deer Park, IL 60010 \n
+        No more shows tonight: Next show is tomorrow at 12:00 pm \n \n</string>
+    <string name="ClassicWS">Classic Cinemas Woodstock \n 209 Main Street, Woodstock, IL 60098 \n
+        No more shows tonight: Next show is tomorrow at 12:15 pm \n \n</string>
+    <string name="AMCWood">AMC Loews Streets Of Woodfield 20 \n 601 N. Martingale Road, Schaumburg, IL 60173 \n
+        No more shows tonight: Next show is tomorrow at 12:30 pm \n \n</string>
+    <string name="AMCRand">AMC Randhurst 12 \n  200 Randhurst Village Dr, Mt Prospect, IL 60056 \n
+        No more shows tonight: Next show tomorrow at 12:40 pm is SOLD OUT \n \n</string>
+    <string name="Endline">No more theaters within range</string>
+    <string name="title_activity_movies">movies</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
